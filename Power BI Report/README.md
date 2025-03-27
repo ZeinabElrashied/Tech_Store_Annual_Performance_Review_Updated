@@ -2,7 +2,7 @@
 
 The interactive Power BI report is available at the link below:
 
-🔗 [View the Report](https://app.powerbi.com/view?r=eyJrIjoiOTMyMjE4YWYtNWEyMC00Y2JkLWE2MDktMzI5MmFkYzc2OGYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=159974565987e092a51c)
+🔗 [View the Report](https://app.powerbi.com/view?r=eyJrIjoiYjc1ZWM0MDctMDVhMC00NjZlLWE5MDEtNjBmMWM2ZWFkN2ZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=159974565987e092a51c)
 
 ### 📂 Explore More  
 You can also check out my full **Business Intelligence Portfolio** here:  
